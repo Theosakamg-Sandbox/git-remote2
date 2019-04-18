@@ -1,0 +1,29 @@
+Exemple : https://github.com/Theosakamg-Sandbox/git-remote
+
+TP7 - Remote
+
+Centralisation des sources 2
+===============================================================================
+
+Créer un depot distant Github avec gitignore + License
+Recupérer sur votre PC le depot
+Modifier le fichier README.md en ajoutant votre Nom Prenom + Promo
+Conservez un historique avec pour message "Update Readme"
+Synchroniser avec votre depot distant
+
+Modification sur Serveur
+===============================================================================
+Modifier le fichier README.md en ajoutant la version 0.1.0
+Conservez un historique avec pour message "Add version"
+Synchroniser avec votre depot local
+
+Depot distant N°2
+===============================================================================
+Créer un depot distant Github vierge.
+Configurer ce nouveau depot avec votre depot local.
+Synchroniser avec votre depot distant
+
+Modifier le fichier README.md en ajoutant Le nom du formateur
+Conservez un historique avec pour message "Add Mick"
+Synchroniser tous vos depots.
+
