@@ -1,0 +1,3 @@
+[submodule "tpRest"]
+	path = tpRest
+	url = git@github.com:Theosakamg-Sandbox/tpRest.git

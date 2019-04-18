@@ -1,0 +1,23 @@
+From 74dfc561a02086cfacd6450a38e3ba8eaf61a345 Mon Sep 17 00:00:00 2001
+From: Mickael Gaillard <mickael.gaillard@tactfactory.com>
+Date: Thu, 18 Apr 2019 13:51:04 +0200
+Subject: [PATCH 1/2] Add commit
+
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index cf26f9c..cdceb55 100644
+--- a/README.md
++++ b/README.md
+@@ -1,5 +1,5 @@
+ # git-remote
+-test from depot 2
++test from depot 2/2
+ 
+ Hello W !!
+ 
+-- 
+2.20.1
+
