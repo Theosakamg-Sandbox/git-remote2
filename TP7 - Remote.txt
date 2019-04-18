@@ -27,3 +27,49 @@ Modifier le fichier README.md en ajoutant Le nom du formateur
 Conservez un historique avec pour message "Add Mick"
 Synchroniser tous vos depots.
 
+TP8 - Commit Temporaire
+===============================================================================
+
+Modifier le fichier README.md en ajoutant un lorem ipsum...
+Avas de conservez ceci... mettre de coté le lorem ipsul.
+Modifier le fichier README.md en ajoutant le message "Commit intermediaire"
+Conservez un historique avec pour message "use stash"
+Restaurez le lorem ipsum mis de coté !
+Conservez un historique avec pour message "add lorem"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
