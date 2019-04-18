@@ -1,5 +1,5 @@
 # git-remote
-test
+test from depot 2
 
 Hello W !!
 
